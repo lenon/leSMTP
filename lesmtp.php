@@ -7,6 +7,8 @@
  * Version: 0.1
  * Author: Lenon Marcel
  * Author URI: http://lenonmarcel.com.br/
+ * Text Domain: lesmtp
+ * Domain Path: /languages/
  */
 /*
  * Copyright (c) 2010 Lenon Marcel <lenon.marcel@gmail.com>
@@ -159,7 +161,10 @@ add_action('phpmailer_init', 'leSMTP::phpmailer_init');
 if ( !is_admin() )
     return;
 
+load_plugin_textdomain('lesmtp', false, dirname(plugin_basename(__FILE__)) . '/languages/');
+
 register_activation_hook(__FILE__, 'leSMTP::setup');
+
 add_action('admin_menu', 'leSMTP::add_options_page');
 add_action('admin_init', 'leSMTP::register_settings');
 add_action('admin_init', 'leSMTP::send_test');

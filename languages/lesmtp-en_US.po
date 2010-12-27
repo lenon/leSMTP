@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: leSMTP 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-27 02:34-0300\n"
+"PO-Revision-Date: 2010-12-27 21:58-0300\n"
+"Last-Translator: Lenon Marcel <lenon.marcel@gmail.com>\n"
+"Language-Team: Lenon Marcel <lenon.marcel@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lesmtp.php:81
+#: ../options.php:8
+msgid "Configurações de SMTP"
+msgstr "SMTP Settings"
+
+#: ../lesmtp.php:81
+msgid "SMTP"
+msgstr "SMTP"
+
+#: ../lesmtp.php:150
+#, php-format
+msgid "Timestamp atual: %s"
+msgstr "Current timestamp: %s"
+
+#: ../lesmtp.php:155
+msgid "Mensagem de teste do seu site WordPress"
+msgstr "Test message from your WordPress site"
+
+#: ../options.php:18
+msgid "E-mail do remetente"
+msgstr "From Email"
+
+#: ../options.php:28
+msgid "Nome do remetente"
+msgstr "From Name"
+
+#: ../options.php:38
+msgid "Servidor SMTP"
+msgstr "SMTP Server"
+
+#: ../options.php:48
+msgid "Porta"
+msgstr "Port"
+
+#: ../options.php:58
+msgid "Segurança"
+msgstr "Secure connection"
+
+#: ../options.php:67
+msgid "Nenhuma"
+msgstr "None"
+
+#: ../options.php:68
+msgid "SSL"
+msgstr "SSL"
+
+#: ../options.php:69
+msgid "TLS"
+msgstr "TLS"
+
+#: ../options.php:88
+msgid "Usar autenticação"
+msgstr "Use authentication"
+
+#: ../options.php:96
+msgid "Usuário"
+msgstr "User"
+
+#: ../options.php:106
+msgid "Senha"
+msgstr "Password"
+
+#: ../options.php:115
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ../options.php:120
+msgid "Enviar e-mail de teste"
+msgstr "Send test email"
+
+#: ../options.php:126
+msgid "E-mail de teste enviado!"
+msgstr "Test email sent!"
+
+#: ../options.php:131
+msgid "Ocorreu um erro ao tentar enviar seu e-mail de teste"
+msgstr "An error occurred while trying to send the test email"
+
+#: ../options.php:151
+msgid "Enviar para"
+msgstr "Send to"
+
+#: ../options.php:162
+msgid "Mensagem"
+msgstr "Message"
+
+#: ../options.php:166
+msgid "Olá, o envio de e-mails do seu site está funcionando!"
+msgstr "Hello, your site can send emails!"
+
+#: ../options.php:173
+msgid "Enviar mensagem de teste"
+msgstr "Send test message"
+
