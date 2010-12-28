@@ -16,7 +16,7 @@ Installation
 
 Available languages
 -------------------
-- Brazillian Portuguese (pt_BR) (default)
+- Brazilian Portuguese (pt_BR) (default)
 - U.S. English (en_US)
 
 Changelog
