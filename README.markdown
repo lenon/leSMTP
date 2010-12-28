@@ -11,8 +11,13 @@ Screenshot
 
 Installation
 ------------
-- Download plugin to the /wp-content/plugins/ folder.
-- Activate the plugin through the 'Plugins' menu in WordPress.
+1. Download plugin to the /wp-content/plugins/ folder.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+
+Available languages
+-------------------
+- Brazillian Portuguese (pt_BR) (default)
+- U.S. English (en_US)
 
 Changelog
 ---------
